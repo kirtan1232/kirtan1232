@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirtan1232" alt="kirtan1232" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Next.js Frotnend + Tailwind CSS**
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">](https://www.linkedin.com/in/kirtan2899)
