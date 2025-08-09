@@ -19,7 +19,7 @@ function App() {
                   : 'text-white hover:bg-white hover:bg-opacity-10'
               }`}
             >
-              Playlist (CSS Modules)
+              Playlist (Tailwind CSS)
             </button>
             <button
               onClick={() => setCurrentPage('trends')}
