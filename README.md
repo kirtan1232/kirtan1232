@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on UI/UX Desigining. Sometimes on free time I do some application developing.
+I am currently focusing on UI/UX design, and during my free time I also work on application development to further enhance my skills.
 
 
 ## 🌐 Socials:
